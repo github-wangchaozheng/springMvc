@@ -8,5 +8,6 @@ public class TestController {
         System.out.println("测试master合并develop");
         System.out.println("测试2");
         System.out.println("测试3");
+        System.out.println("合并master代码提交");
     }
 }
