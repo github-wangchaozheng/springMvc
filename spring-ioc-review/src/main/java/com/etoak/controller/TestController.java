@@ -10,5 +10,6 @@ public class TestController {
         System.out.println("测试3");
         System.out.println("合并master代码提交");
         System.out.println("本地代码1");
+        System.out.println("远程协同1");
     }
 }
