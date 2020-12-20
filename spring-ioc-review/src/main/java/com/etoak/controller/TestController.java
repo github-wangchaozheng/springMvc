@@ -6,5 +6,7 @@ public class TestController {
         System.out.println("测试1");
         System.out.println("测试1.2");
         System.out.println("测试master合并develop");
+        System.out.println("测试2");
+        System.out.println("测试3");
     }
 }
